@@ -1,1 +1,1 @@
-# Proiect_Biblioteca
+# Acest program gestionează cărțile împrumutate dintr-o bibliotecă, afișând o listă cu numele persoanelor care au împrumutat din bibliotecă, precum și cartea care a fost imprumutată. În plus, programul va afișa dacă o carte este disponibilă, iar la fiecare persoană se va afișa numărul de cărți împrumutate și dacă acest număr depășește limita de cărți care pot fi împrumutate de către o persoană, va apărea un mesaj de atenționare.
